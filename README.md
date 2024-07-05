@@ -1,2 +1,2 @@
 # template
-A Python project template
+A Python project template.
